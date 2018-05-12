@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '39133'
     url: http://www.gutenberg.org/2009/agents/39133
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39234#The-Portsmouth-Road-and-Its-TributariesTo-Day-and-in-Days-of-Old
 gutenberg_issued: '2012-03-24'
 gutenberg_type: Text
 identifiers:
